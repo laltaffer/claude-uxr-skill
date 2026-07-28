@@ -39,6 +39,11 @@ Full landscape + tradeoffs: pack `ux-research-methods.md`.
 - **Own-network interviews** (E2): reach the audiences you already have access to;
   niche audiences via forums and community guides. 5–8 interviews per
   question; recruit screener piloted on the panel first.
+- **Win/loss interviews** (E2): once something is being sold or pitched — ask recent
+  evaluators who said yes *and* who said no why they decided. Interview 2–4 weeks
+  after the decision, never run by whoever sold, and don't claim a pattern under ~10
+  decisions. The no-sayers are the half everyone skips and the half that moves
+  roadmaps. (Discipline from Pragmatic Institute's win/loss practice.)
 - **Guerrilla/unmoderated tests** (E1): once there's a build — watch 5 people try the
   core task. Five users find most of what's findable per round; more rounds beat
   bigger rounds.
